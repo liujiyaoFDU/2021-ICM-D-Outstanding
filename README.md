@@ -1,6 +1,8 @@
 # 2021-ICM-D-Outstanding
  2021 数模美赛O奖论文及代码公开，包含了论文pdf、latex源文件、源代码。
 
+![v2-5f65cb41b5d835859b2121b00f2a85d2_b](https://s2.loli.net/2022/01/01/FVis3OKvfUkRBm7.jpg)
+
 ### 论文
 
 ------------------
