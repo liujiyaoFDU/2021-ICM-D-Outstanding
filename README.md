@@ -11,7 +11,7 @@
 
 我们还公开了论文的latex代码，见：[2021-ICM-D-O奖论文latex代码-XDU](https://github.com/Jy-stdio/2021-ICM-D-Outstanding/tree/main/tex%E6%BA%90%E7%A8%8B%E5%BA%8F/2021%20D/easymcm)
 
-latex模板使用说明见：[一个简洁、易用的美赛 LaTeX 模板: easymcm](https://github.com/xjtu-blacksmith/easymcm)
+latex所使用的原始模板见：[一个简洁、易用的美赛 LaTeX 模板: easymcm](https://github.com/xjtu-blacksmith/easymcm)，大家可以下载使用这个
 
 ## 代码
 
